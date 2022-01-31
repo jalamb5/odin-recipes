@@ -4,8 +4,14 @@ html {
 
 h1 {
     color: #00a5e0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-li {
+.ingredients {
     color: #4a4063;
+}
+
+img {
+    width: 200px;
+    height: auto;
 }
