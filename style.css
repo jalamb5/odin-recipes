@@ -1,5 +1,5 @@
 html {
-    background-color: #e6e6fa;
+    background-color: #E6E6FA;
 }
 
 body {
@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    color: #00a5e0;
+    color: #D33F49;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -36,6 +36,7 @@ img {
     border: 1px solid #eee;
     box-shadow: 2px 4px 16px rgba(0,0,0,.06);
     border-radius: 4px;
+    background-color: #EFE9AE;
     width: 200px;
     height: 200px;
     padding: 10px;
