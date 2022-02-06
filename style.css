@@ -2,6 +2,11 @@ html {
     background-color: #e6e6fa;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+}
+
 h1 {
     color: #00a5e0;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -14,4 +19,25 @@ h1 {
 img {
     width: 200px;
     height: auto;
+}
+
+.content {
+    display: flex;
+}
+
+.recipes {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card {
+    list-style: none;
+    border: 1px solid #eee;
+    box-shadow: 2px 4px 16px rgba(0,0,0,.06);
+    border-radius: 4px;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin: 15px;
 }
